@@ -1,0 +1,6 @@
+pygame
+requests
+datetime
+XInput
+pyeasyremote
+opencv-python
